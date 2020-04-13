@@ -1,0 +1,10 @@
+D:\Workspaces\DotNet\Calculatrice2\Calculatrice2\bin\Debug\Calculatrice2.exe.config
+D:\Workspaces\DotNet\Calculatrice2\Calculatrice2\bin\Debug\Calculatrice2.exe
+D:\Workspaces\DotNet\Calculatrice2\Calculatrice2\bin\Debug\Calculatrice2.pdb
+D:\Workspaces\DotNet\Calculatrice2\Calculatrice2\obj\Debug\Calculatrice2.Form1.resources
+D:\Workspaces\DotNet\Calculatrice2\Calculatrice2\obj\Debug\Calculatrice2.Properties.Resources.resources
+D:\Workspaces\DotNet\Calculatrice2\Calculatrice2\obj\Debug\Calculatrice2.csproj.GenerateResource.cache
+D:\Workspaces\DotNet\Calculatrice2\Calculatrice2\obj\Debug\Calculatrice2.csproj.CopyComplete
+D:\Workspaces\DotNet\Calculatrice2\Calculatrice2\obj\Debug\Calculatrice2.exe
+D:\Workspaces\DotNet\Calculatrice2\Calculatrice2\obj\Debug\Calculatrice2.pdb
+D:\Workspaces\DotNet\Calculatrice2\Calculatrice2\obj\Debug\Calculatrice2.csprojAssemblyReference.cache
